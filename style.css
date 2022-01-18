@@ -3,3 +3,12 @@ body {
   height: 100%;
   margin: 0;
 }
+h1, nav, figure {
+  text-align: center;
+}
+nav{
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
